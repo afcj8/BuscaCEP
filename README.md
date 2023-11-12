@@ -31,7 +31,7 @@ Link do webservice ViaCEP: https://viacep.com.br/
 
 3. Navegue até o diretório clonado:
    ```bash
-   cd BuscaCep
+   cd BuscaCEP
    ```
 
 4. Instale as dependências:
